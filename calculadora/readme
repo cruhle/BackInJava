@@ -1,0 +1,25 @@
+
+calculadora\calculadora.java
+Pede 2 numeros e dá a soma dos mesmos
+
+calculadora\operacao_matematica.java
+Pede 2 numeros e qual a operacao a ser feita (+-*/) e apresenta o respectivo resultado 
+
+calculadora\quatroDesafios.java
+Par ou ímpar — ler um número inteiro e indicar se é par ou ímpar (usar %).
+Aprovado / reprovado — ler uma nota e indicar o resultado, com o ternário.
+Classificar idade — criança, adolescente, adulto ou idoso, com else if.
+Maior de 3 números — ler três números e indicar qual é o maior.
+
+
+semana_2\operadores.java
+Média de 3 notas — ler três notas (double) e calcular a média aritmética.
+
+semana_2\operadores.java\Reads_a_file.java
+Reads the file  ciber_security.txt
+
+semana_3\CoffeeSize.java
+Class ENUN (SMALL, MEDIUM, LARGE)
+
+semana_3\Main.java
+Usa a classe CoffeeSize.java
